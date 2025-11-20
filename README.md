@@ -27,7 +27,7 @@ Al ejecutar el juego, el usuario accede a un menú principal donde puede:
 *Ejecutar el juego*
 Para jugar:
 
-■Abra la carpeta del proyecto.
+■Descargue todos los archivos y guardelos en una carpeta (tanto .h como .c y .exe)
 
 ■Ubique el archivo Snake.exe.
 
@@ -38,9 +38,3 @@ Para jugar:
 Gastón Vera – Líder de desarrollo
 
 Lautaro Flores – Documentación y diseño de flyers
-
-
-        ____ 
-       /    \
-       )o o(/
-       `/^/´
