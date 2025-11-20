@@ -32,7 +32,7 @@ Para jugar:
 
 ■Ubique el archivo Snake.exe.
 
-■Ejecútelo con doble click, siempre desde la misma carpeta donde está los archivos .txt y donde estará el archivo de puntajes.
+■Ejecútelo con doble click, siempre desde la misma carpeta donde está los archivos .txt.
 
 
 
