@@ -1,7 +1,4 @@
 *Proyecto Integrador – Snake*
-
-Integrantes: Gastón Vera y Lautaro Flores
-
 Este proyecto implementa el clásico juego de la Viborita utilizando el lenguaje C y las estructuras de datos vistas durante la cursada.
 
 El programa incluye:
@@ -26,3 +23,13 @@ Para jugar:
 ■Abra la carpeta del proyecto.
 ■Ubique el archivo Snake.exe.
 ■Ejecútelo con doble click, siempre desde la misma carpeta donde está los archivos .txt y donde estará el archivo de puntajes.
+
+*Créditos*
+Gastón Vera – Líder de desarrollo
+Lautaro Flores – Documentación y diseño de flyers
+
+
+        ____ 
+       /    \
+       )o o(/
+       `/^/´
