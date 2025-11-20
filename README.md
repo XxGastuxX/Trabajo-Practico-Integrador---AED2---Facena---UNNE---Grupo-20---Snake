@@ -1,5 +1,6 @@
 *Proyecto Integrador – Snake*
-Este proyecto implementa el clásico juego de la Viborita utilizando el lenguaje C y las estructuras de datos vistas durante la cursada.
+
+Este proyecto implementa el clásico juego de la Viborita utilizando el lenguaje C y las estructuras de datos y tecnicas vistas durante la cursada.
 
 El programa incluye:
  ■Listas enlazadas
