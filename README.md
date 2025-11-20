@@ -35,6 +35,7 @@ Para jugar:
 ■Ejecútelo con doble click, siempre desde la misma carpeta donde está los archivos .txt y donde estará el archivo de puntajes.
 
 
+
 *Créditos*
 
 Gastón Vera – Líder de desarrollo
