@@ -36,6 +36,7 @@ Para jugar:
 
 
 *Créditos*
+
 Gastón Vera – Líder de desarrollo
 
 Lautaro Flores – Documentación y diseño de flyers
