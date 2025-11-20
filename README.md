@@ -25,6 +25,7 @@ Al ejecutar el juego, el usuario accede a un menú principal donde puede:
 *Todos los puntajes se guardan en un archivo binario (scores.dat) y luego se muestran utilizando un árbol binario ordenado por puntaje.*
 
 *Ejecutar el juego*
+
 Para jugar:
 
 ■Descargue todos los archivos y guardelos en una carpeta (.txt y .exe)
