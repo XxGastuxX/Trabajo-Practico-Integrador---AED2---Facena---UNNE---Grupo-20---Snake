@@ -28,11 +28,11 @@ Al ejecutar el juego, el usuario accede a un menú principal donde puede:
 
 Para jugar:
 
-■Descargue todos los archivos y guardelos en una carpeta (.txt y .exe)
+■Descargue todos los archivos y guardelos en una carpeta (.txt, .dat y .exe)
 
 ■Ubique el archivo Snake.exe.
 
-■Ejecútelo con doble click, siempre desde la misma carpeta donde está los archivos .txt.
+■Ejecútelo con doble click, siempre desde la misma carpeta donde están los archivos .txt y .dat.
 
 
 
